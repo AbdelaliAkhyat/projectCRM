@@ -2,3 +2,4 @@ Title : test "ajout des prestation"
 Content : test "ajout des prestation"
 
 Ici le lien vers le formulaire de création de prestation (url...)
+ici la logique métier responsable de gérer la création des prestation
